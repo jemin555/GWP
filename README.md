@@ -239,3 +239,29 @@ for (int i=armg.size()-10;i<armg.size();i++)
 }
 
 }
+
+
+
+ADVANTAGES
+===========
+
+
+=>It saves time and cost
+
+=>It has automatic garbic collection.
+
+=>It is a pure oops language.
+
+=>It is a Loosely coupled webapplication. ie) G$WP
+
+=>It has attraction syntax.
+
+=>  Focused  on  biometric  web  / remotewebapplication
+
+=>Includes all advantages of C#  in J$
+
+=>It is also focused for enterprise design
+
+=>It accepts webassembly format.
+
+=> learnable and used with J$ => SAVES time and cost...
