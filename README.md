@@ -242,13 +242,23 @@ for (int i=armg.size()-10;i<armg.size();i++)
 
 
 
-ADVANTAGES
-===========
 
+G$WP
+=====
+
+G$WP  is   invented   in GDollar p.l  for  remote/webapplication    and  solomon ring(DOTWEB3.0) 
+
+ for    biometric  remote/web application by  wilmix jemin j.
+
+
+
+
+G$WPv.1  ADVANTAGES
+================
 
 =>It saves time and cost
 
-=>It has automatic garbic collection.
+=>It has automatic garbage  and  explicit memory .
 
 =>It is a pure oops language.
 
@@ -256,12 +266,17 @@ ADVANTAGES
 
 =>It has attraction syntax.
 
-=>  Focused  on  biometric  web  / remotewebapplication
+=> Focused on biometric web / remotewebapplication
 
-=>Includes all advantages of C#  in J$
+=>Includes all advantages of C# in J$
 
 =>It is also focused for enterprise design
 
 =>It accepts webassembly format.
 
 => learnable and used with J$ => SAVES time and cost...
+
+Screenshot
+========
+
+![gwpscreenshot1](https://user-images.githubusercontent.com/32796929/43999351-69fabfc6-9e28-11e8-9c31-a70fd117dc65.png)
