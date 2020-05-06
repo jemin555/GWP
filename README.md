@@ -1,7 +1,7 @@
 # GWP
 ======
 
-G$WP is  focused for GDollar and  DOTNET  Professionals for Type-0 web/remoteweb/biometric web/remoteweb application . it is invented by wilmix jemin j . 
+G$WP is  focused for GDollar and  DOTNET  Professionals for Type-1 web/remoteweb/biometric web/remoteweb application . it is invented by wilmix jemin j . 
 
 
 
